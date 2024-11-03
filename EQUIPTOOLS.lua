@@ -1284,3 +1284,170 @@ local args = {
 
 game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
 
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "Arch"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "PowerKeyCard"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "BankKeyCard"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "KeyCardDarkGreen"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "Crystals"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "Crystal"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "AgencyBook"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "FireHose"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "SignBlack"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "SignPink"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "SignRed"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "PaperbagFire"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "Couch"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "Corn"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "Pumpkin"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "Tree"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "Hay"
+}
+
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "YouTubeSilver"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
+local args = {
+    [1] = "PickingTools",
+    [2] = "YouTubeGold"
+}
+
+game:GetService("ReplicatedStorage").RE:FindFirstChild("1Too1l"):InvokeServer(unpack(args))
+
